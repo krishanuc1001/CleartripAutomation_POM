@@ -1,0 +1,9 @@
+ChromeDriver=E:\\Selenium\\Selenium Drivers\\chromedriver_win32_2_3_3\\chromedriver.exe
+
+GeckoDriver=E:\\Selenium\\Selenium Drivers\\geckodriver-v0.17.0-win64\\geckodriver.exe
+
+IEDriver=E:\\Selenium\\Selenium Drivers\\IEDriverServer_x64_3.4.0\\IEDriverServer.exe
+
+URL=https://www.cleartrip.com/
+
+ExcelPath=E:\\Selenium\\Project\\ClearTrip\\Test Data\\SampleTestDataWorkbook.xlsx

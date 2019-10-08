@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default test suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="TestCases.FlightBooking">
+        <methods>
+          <include name="tearDown"/>
+          <include name="takeScreenshotAtFailure"/>
+          <include name="FlightBookingMethod"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- TestCases.FlightBooking -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default test suite] -->
